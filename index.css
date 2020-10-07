@@ -1,0 +1,43 @@
+
+  .plan {
+    margin: 0 10px;
+    padding: 20px;
+    display: inline-block;
+    border-radius: 20px;
+    color: white;
+    text-decoration: none;
+    margin-bottom: 20px;
+    background: #FF764E;
+  }
+
+  .learn {
+    margin: 0 10px;
+    padding: 20px;
+    display: inline-block;
+    border-radius: 20px;
+    color: white;
+    text-decoration: none;
+    margin-bottom: 20px;
+    background: #5ED3EB;
+  }
+
+  .get {
+    margin: 0 10px;
+    padding: 20px;
+    display: inline-block;
+    border-radius: 20px;
+    color: white;
+    text-decoration: none;
+    margin-bottom: 20px;
+    background: #FFCD69;
+
+    h1 {font-family: Chelsea Market, cursive;
+      margin: 20px 0;
+      font-size: 60px;
+      text-align: center;
+    }
+
+.headline img {
+    border-radius: 10rem;
+    float: left;
+}
